@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Min Kwak\OneDrive\바탕 화면\Personal Study\DirectX 11_Part 1_Basic Concepts of Rendering\3_v10-221110-150951\03_Raytracing_Step4_DrawingSphere\x64\Debug\03_Raytracing_Step4_DrawingSphere.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Min Kwak\OneDrive\바탕 화면\Personal Study\DirectX 11_Part 1_Basic Concepts of Rendering\3_v10-221110-150951\03_Raytracing_Step4_DrawingSphere\x64\Debug\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Min Kwak\OneDrive\바탕 화면\Personal Study\DirectX 11_Part 1_Basic Concepts of Rendering\3_v10-221110-150951\03_Raytracing_Step4_DrawingSphere\x64\Debug\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
